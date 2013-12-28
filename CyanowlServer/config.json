@@ -1,0 +1,5 @@
+worker=4
+port=9000
+logging="info"
+log_file_prefix="/var/log/tornado.log"
+xmldir="/var/spool/collections/"

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<server>
+  <java>../bin/test.sh</java>
+  <zookeeper>../bin/test.sh</zookeeper>
+  <redis>../bin/test.sh</redis>
+  <memcached>../bin/test.sh</memcached>
+</server>

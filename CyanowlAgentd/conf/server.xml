@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<server>
+  <info ip='localhost' port='9000'>server info </info>
+</server>

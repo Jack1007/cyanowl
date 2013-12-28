@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logs>
+	<file path="../logs/child.log"></file>
+</logs>
